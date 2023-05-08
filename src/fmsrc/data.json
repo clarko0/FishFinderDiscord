@@ -1,0 +1,88 @@
+{
+ "items": [
+  {
+   "name": "Kaleton Rod",
+   "type": "rod",
+   "price": 5074.999999999999,
+   "auction": false,
+   "id": "57258"
+  },
+  {
+   "name": "AVanca Rod",
+   "type": "rod",
+   "price": 4059.9999999999995,
+   "auction": false,
+   "id": "51984"
+  },
+  {
+   "name": "AVanca Rod",
+   "type": "rod",
+   "price": 4059.9999999999995,
+   "auction": false,
+   "id": "48415"
+  },
+  {
+   "name": "AVanca Rod",
+   "type": "rod",
+   "price": 3254.0899999999997,
+   "auction": false,
+   "id": "52132"
+  },
+  {
+   "name": "AVanca Rod",
+   "type": "rod",
+   "price": 3450.9999999999995,
+   "auction": false,
+   "id": "47065"
+  },
+  {
+   "name": "Basic rod",
+   "type": "rod",
+   "price": 2599.415,
+   "auction": false,
+   "id": "15596"
+  },
+  {
+   "name": "Kaleton Rod",
+   "type": "rod",
+   "price": 4009.2499999999995,
+   "auction": false,
+   "id": "66914"
+  },
+  {
+   "name": "Basic rod",
+   "type": "rod",
+   "price": 2537.4999999999995,
+   "auction": false,
+   "id": "66173"
+  },
+  {
+   "name": "Basic rod",
+   "type": "rod",
+   "price": 1801.6249999999998,
+   "auction": false,
+   "id": "42610"
+  },
+  {
+   "name": "Basic rod",
+   "type": "rod",
+   "price": 1776.2499999999998,
+   "auction": false,
+   "id": "12392"
+  },
+  {
+   "name": "Praxa-5 Rod",
+   "type": "rod",
+   "price": 3552.4999999999995,
+   "auction": false,
+   "id": "68867"
+  },
+  {
+   "name": "FD-Dis Rod",
+   "type": "rod",
+   "price": 3552.4999999999995,
+   "auction": false,
+   "id": "68308"
+  }
+ ]
+}
